@@ -12,20 +12,21 @@ export default function Hero() {
           className="h-full object-cover [mask-image:linear-gradient(to_top,transparent_10%,white)]"
         />
       </div>
-      <div className="absolute inset-0 z-10 grid place-content-center gap-y-4 text-center">
-        <div>
+      <div className="absolute inset-0 z-10 grid place-content-center gap-y-10 text-center">
+        <div className="space-y-2">
           <span className="block w-fit bg-white/50 backdrop-blur-sm font-semibold mx-auto py-1 px-4 rounded-full">
             Join our community
           </span>
           <h1 className="text-7xl font-semibold text-white">
             Discover <span className="italic text-yellow-500">new</span> recipes
           </h1>
+          <p className="max-w-sm mx-auto text-lg text-white/90 font-medium">
+            Find recipes from all over the world. Shared by people like you!
+          </p>
         </div>
-
-        <p className="max-w-sm mx-auto text-lg text-white/90 font-medium">
-          Find recipes from all parts of the world shared by people like you!
-        </p>
-        <Button className="w-[200px] bg-lime-600 mx-auto">Get Started</Button>
+        <Button className="w-[200px] bg-lime-600 hover:bg-lime-700 mx-auto">
+          Get Started
+        </Button>
       </div>
     </section>
   );
