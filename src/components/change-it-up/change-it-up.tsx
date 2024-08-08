@@ -5,7 +5,7 @@ import Emphasis from "@/components/ui/emphasis";
 import { Card, CardContent } from "@/components/ui/card";
 export default function ChangeItUp() {
   return (
-    <section className=" bg-neutral-950 text-white pt-10 p-32">
+    <section className=" bg-neutral-950 text-white pt-10 pb-32">
         <div className="container flex justify-between h-full">
           <div className="space-y-4">
             <div>
@@ -21,7 +21,7 @@ export default function ChangeItUp() {
               cook on a Monday night, this is the place for you.
             </p>
           </div>
-          <section className="grid grid-cols-3 grid-rows-7 gap-4 max-w-2xl">
+          <section className="grid grid-cols-3 grid-rows-7 gap-6 max-w-2xl">
             <Card className="row-span-3 border-none overflow-hidden">
               <CardContent className="p-0 h-full">
                 <Image src={s1} alt="" className="h-full object-cover" />
