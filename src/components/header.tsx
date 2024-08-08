@@ -1,11 +1,17 @@
+"use client";
+import { useEffect, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import logo from "../../public/logo.jpg";
-import { Button } from "./ui/button";
 
 export default function Header() {
+  const [headerPos, setHeaderPos] = useState<number>(0);
+  window.addEventListener("scroll", () =>{
+    setHeaderPos(window.scrollY)
+  });
+
   return (
-    <header className="absolute top-0 z-50 w-full pt-4">
+    <header className={`absolute top-10 z-50 w-full pt-4`}>
       <div className=" container grid grid-cols-3 items-start text-white text-sm text-center rounded-full">
         <nav className="w-fit bg-neutral-900 py-2 px-6 rounded-full">
           <ul className="flex gap-x-8 uppercase">
@@ -35,13 +41,13 @@ export default function Header() {
         </Link>
         <div className="w-fit ml-auto rounded-full uppercase">
           <Link
-            href="/"
+            href="/dashboard"
             className="bg-neutral-900 hover:bg-yellow-500 py-2 pl-6 pr-3 text-yellow-500 hover:text-white rounded-l-full transition"
           >
             Sign up
           </Link>
           <Link
-            href="/"
+            href="/dashboard"
             className="bg-neutral-900 hover:bg-lime-600 py-2 pr-6 pl-3 text-lime-600 hover:text-white rounded-r-full transition"
           >
             Sign in
