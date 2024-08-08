@@ -1,6 +1,7 @@
 import Image from "next/image";
 import bg from "../../../public/stock-2.jpg";
 import { Button } from "../ui/button";
+import Emphasis from "../ui/emphasis";
 
 export default function Hero() {
   return (
@@ -18,10 +19,10 @@ export default function Hero() {
             Join our community
           </span>
           <h1 className="text-7xl font-semibold text-white">
-            Discover <span className="italic text-yellow-500">new</span> recipes
+            Discover <Emphasis>new</Emphasis> recipes
           </h1>
           <p className="max-w-sm mx-auto text-lg text-white/90 font-medium">
-            Find recipes from all over the world. Shared by people like you!
+            Find recipes from all over the world shared by people like you!
           </p>
         </div>
         <Button className="w-[200px] bg-lime-600 hover:bg-lime-700 mx-auto">
