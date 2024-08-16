@@ -1,0 +1,1 @@
+export type TDish = {name: string, cuisine: string, preference?: string, prepTime: number, difficulty: "Beginner" | "Intermediate" | "Advanced", budget: number, cookingMethod: "Baking" | "Grilling" | "Frying" | "Slow Cooker" | "Instant Pot" | "No-Cook"}

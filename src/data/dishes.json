@@ -1,0 +1,642 @@
+[
+  {
+    "name": "Pancakes",
+    "mealType": "Breakfast",
+    "cuisine": "USA",
+    "prepTime": 15,
+    "difficulty": "Beginner",
+    "budget": 20,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Huevos Rancheros",
+    "mealType": "Breakfast",
+    "cuisine": "Mexican",
+    "prepTime": 30,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Frittata",
+    "mealType": "Breakfast",
+    "cuisine": "Italian",
+    "prepTime": 30,
+    "difficulty": "Beginner",
+    "budget": 20,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Congee",
+    "mealType": "Breakfast",
+    "cuisine": "Chinese",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Slow Cooker"
+  },
+  {
+    "name": "Ackee and Saltfish",
+    "mealType": "Breakfast",
+    "cuisine": "Caribbean",
+    "prepTime": 45,
+    "difficulty": "Advanced",
+    "budget": 40,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Shakshuka",
+    "mealType": "Breakfast",
+    "cuisine": "Mediterranean",
+    "preference": "Vegetarian",
+    "prepTime": 30,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Arepas",
+    "mealType": "Breakfast",
+    "cuisine": "South American",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Grilling"
+  },
+  {
+    "name": "Croissants",
+    "mealType": "Breakfast",
+    "cuisine": "European",
+    "prepTime": 60,
+    "difficulty": "Advanced",
+    "budget": 40,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Mandazi",
+    "mealType": "Breakfast",
+    "cuisine": "African",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Roti",
+    "mealType": "Breakfast",
+    "cuisine": "Asian",
+    "prepTime": 30,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Avocado Toast",
+    "mealType": "Breakfast",
+    "cuisine": "Australian",
+    "preference": "Vegan",
+    "prepTime": 15,
+    "difficulty": "Beginner",
+    "budget": 20,
+    "cookingMethod": "No-Cook"
+  },
+  {
+    "name": "Chicken Caesar Salad",
+    "mealType": "Lunch",
+    "cuisine": "USA",
+    "prepTime": 30,
+    "difficulty": "Beginner",
+    "budget": 20,
+    "cookingMethod": "Grilling"
+  },
+  {
+    "name": "Tacos al Pastor",
+    "mealType": "Lunch",
+    "cuisine": "Mexican",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Grilling"
+  },
+  {
+    "name": "Caprese Salad",
+    "mealType": "Lunch",
+    "cuisine": "Italian",
+    "preference": "Vegetarian",
+    "prepTime": 15,
+    "difficulty": "Beginner",
+    "budget": 20,
+    "cookingMethod": "No-Cook"
+  },
+  {
+    "name": "Kung Pao Chicken",
+    "mealType": "Lunch",
+    "cuisine": "Chinese",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Jerk Chicken",
+    "mealType": "Lunch",
+    "cuisine": "Caribbean",
+    "prepTime": 60,
+    "difficulty": "Advanced",
+    "budget": 40,
+    "cookingMethod": "Grilling"
+  },
+  {
+    "name": "Falafel Wrap",
+    "mealType": "Lunch",
+    "cuisine": "Mediterranean",
+    "preference": "Vegan",
+    "prepTime": 30,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Empanadas",
+    "mealType": "Lunch",
+    "cuisine": "South American",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Quiche Lorraine",
+    "mealType": "Lunch",
+    "cuisine": "European",
+    "prepTime": 60,
+    "difficulty": "Advanced",
+    "budget": 40,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Jollof Rice",
+    "mealType": "Lunch",
+    "cuisine": "African",
+    "prepTime": 60,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Slow Cooker"
+  },
+  {
+    "name": "Pad Thai",
+    "mealType": "Lunch",
+    "cuisine": "Asian",
+    "preference": "Gluten-Free",
+    "prepTime": 30,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Grilled Barramundi",
+    "mealType": "Lunch",
+    "cuisine": "Australian",
+    "prepTime": 30,
+    "difficulty": "Intermediate",
+    "budget": 40,
+    "cookingMethod": "Grilling"
+  },
+  {
+    "name": "BBQ Ribs",
+    "mealType": "Dinner",
+    "cuisine": "USA",
+    "prepTime": 60,
+    "difficulty": "Advanced",
+    "budget": 60,
+    "cookingMethod": "Grilling"
+  },
+  {
+    "name": "Enchiladas",
+    "mealType": "Dinner",
+    "cuisine": "Mexican",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Lasagna",
+    "mealType": "Dinner",
+    "cuisine": "Italian",
+    "prepTime": 60,
+    "difficulty": "Intermediate",
+    "budget": 40,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Sweet and Sour Pork",
+    "mealType": "Dinner",
+    "cuisine": "Chinese",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Curry Goat",
+    "mealType": "Dinner",
+    "cuisine": "Caribbean",
+    "prepTime": 60,
+    "difficulty": "Advanced",
+    "budget": 40,
+    "cookingMethod": "Slow Cooker"
+  },
+  {
+    "name": "Moussaka",
+    "mealType": "Dinner",
+    "cuisine": "Mediterranean",
+    "prepTime": 60,
+    "difficulty": "Advanced",
+    "budget": 40,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Feijoada",
+    "mealType": "Dinner",
+    "cuisine": "South American",
+    "prepTime": 60,
+    "difficulty": "Advanced",
+    "budget": 40,
+    "cookingMethod": "Slow Cooker"
+  },
+  {
+    "name": "Beef Stroganoff",
+    "mealType": "Dinner",
+    "cuisine": "European",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 40,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Braai",
+    "mealType": "Dinner",
+    "cuisine": "African",
+    "prepTime": 60,
+    "difficulty": "Advanced",
+    "budget": 60,
+    "cookingMethod": "Grilling"
+  },
+  {
+    "name": "Butter Chicken",
+    "mealType": "Dinner",
+    "cuisine": "Asian",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 40,
+    "cookingMethod": "Slow Cooker"
+  },
+  {
+    "name": "Kangaroo Steak",
+    "mealType": "Dinner",
+    "cuisine": "Australian",
+    "prepTime": 30,
+    "difficulty": "Advanced",
+    "budget": 40,
+    "cookingMethod": "Grilling"
+  },
+  {
+    "name": "Apple Pie",
+    "mealType": "Dessert",
+    "cuisine": "USA",
+    "prepTime": 60,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Churros",
+    "mealType": "Dessert",
+    "cuisine": "Mexican",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Tiramisu",
+    "mealType": "Dessert",
+    "cuisine": "Italian",
+    "prepTime": 45,
+    "difficulty": "Advanced",
+    "budget": 40,
+    "cookingMethod": "No-Cook"
+  },
+  {
+    "name": "Mooncakes",
+    "mealType": "Dessert",
+    "cuisine": "Chinese",
+    "prepTime": 60,
+    "difficulty": "Advanced",
+    "budget": 40,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Coconut Drops",
+    "mealType": "Dessert",
+    "cuisine": "Caribbean",
+    "prepTime": 30,
+    "difficulty": "Beginner",
+    "budget": 20,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Baklava",
+    "mealType": "Dessert",
+    "cuisine": "Mediterranean",
+    "prepTime": 60,
+    "difficulty": "Advanced",
+    "budget": 40,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Alfajores",
+    "mealType": "Dessert",
+    "cuisine": "South American",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Crepes",
+    "mealType": "Dessert",
+    "cuisine": "European",
+    "prepTime": 30,
+    "difficulty": "Beginner",
+    "budget": 20,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Malva Pudding",
+    "mealType": "Dessert",
+    "cuisine": "African",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Mango Sticky Rice",
+    "mealType": "Dessert",
+    "cuisine": "Asian",
+    "prepTime": 30,
+    "difficulty": "Beginner",
+    "budget": 20,
+    "cookingMethod": "No-Cook"
+  },
+  {
+    "name": "Lamingtons",
+    "mealType": "Dessert",
+    "cuisine": "Australian",
+    "prepTime": 60,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Trail Mix",
+    "mealType": "Snack",
+    "cuisine": "USA",
+    "preference": "Nut-Free",
+    "prepTime": 15,
+    "difficulty": "Beginner",
+    "budget": 20,
+    "cookingMethod": "No-Cook"
+  },
+  {
+    "name": "Elote",
+    "mealType": "Snack",
+    "cuisine": "Mexican",
+    "prepTime": 15,
+    "difficulty": "Beginner",
+    "budget": 20,
+    "cookingMethod": "Grilling"
+  },
+  {
+    "name": "Bruschetta",
+    "mealType": "Snack",
+    "cuisine": "Italian",
+    "prepTime": 15,
+    "difficulty": "Beginner",
+    "budget": 20,
+    "cookingMethod": "Grilling"
+  },
+  {
+    "name": "Spring Rolls",
+    "mealType": "Snack",
+    "cuisine": "Chinese",
+    "preference": "Vegetarian",
+    "prepTime": 30,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Plantain Chips",
+    "mealType": "Snack",
+    "cuisine": "Caribbean",
+    "prepTime": 15,
+    "difficulty": "Beginner",
+    "budget": 20,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Hummus and Pita",
+    "mealType": "Snack",
+    "cuisine": "Mediterranean",
+    "preference": "Vegan",
+    "prepTime": 15,
+    "difficulty": "Beginner",
+    "budget": 20,
+    "cookingMethod": "No-Cook"
+  },
+  {
+    "name": "Cheese Empanadas",
+    "mealType": "Snack",
+    "cuisine": "South American",
+    "prepTime": 30,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Scones",
+    "mealType": "Snack",
+    "cuisine": "European",
+    "prepTime": 30,
+    "difficulty": "Beginner",
+    "budget": 20,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Samosas",
+    "mealType": "Snack",
+    "cuisine": "African",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Onigiri",
+    "mealType": "Snack",
+    "cuisine": "Asian",
+    "preference": "Gluten-Free",
+    "prepTime": 15,
+    "difficulty": "Beginner",
+    "budget": 20,
+    "cookingMethod": "No-Cook"
+  },
+  {
+    "name": "Meat Pies",
+    "mealType": "Snack",
+    "cuisine": "Australian",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Buffalo Wings",
+    "mealType": "Snack",
+    "cuisine": "USA",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Tamales",
+    "mealType": "Snack",
+    "cuisine": "Mexican",
+    "prepTime": 60,
+    "difficulty": "Advanced",
+    "budget": 20,
+    "cookingMethod": "Steaming"
+  },
+  {
+    "name": "Panna Cotta",
+    "mealType": "Dessert",
+    "cuisine": "Italian",
+    "prepTime": 30,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Chilling"
+  },
+  {
+    "name": "General Tso's Chicken",
+    "mealType": "Dinner",
+    "cuisine": "Chinese",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Mofongo",
+    "mealType": "Dinner",
+    "cuisine": "Caribbean",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Gyros",
+    "mealType": "Dinner",
+    "cuisine": "Mediterranean",
+    "prepTime": 30,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Grilling"
+  },
+  {
+    "name": "Ceviche",
+    "mealType": "Appetizer",
+    "cuisine": "South American",
+    "preference": "Gluten-Free",
+    "prepTime": 30,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "No-Cook"
+  },
+  {
+    "name": "Chicken Schnitzel",
+    "mealType": "Dinner",
+    "cuisine": "European",
+    "prepTime": 30,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Frying"
+  },
+  {
+    "name": "Piri Piri Chicken",
+    "mealType": "Dinner",
+    "cuisine": "African",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Grilling"
+  },
+  {
+    "name": "Ramen",
+    "mealType": "Dinner",
+    "cuisine": "Asian",
+    "prepTime": 60,
+    "difficulty": "Advanced",
+    "budget": 20,
+    "cookingMethod": "Boiling"
+  },
+  {
+    "name": "Damper",
+    "mealType": "Snack",
+    "cuisine": "Australian",
+    "prepTime": 30,
+    "difficulty": "Beginner",
+    "budget": 20,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Beef Bourguignon",
+    "mealType": "Dinner",
+    "cuisine": "European",
+    "prepTime": 60,
+    "difficulty": "Advanced",
+    "budget": 40,
+    "cookingMethod": "Slow Cooker"
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "mealType": "Dinner",
+    "cuisine": "Asian",
+    "prepTime": 45,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Grilling"
+  },
+  {
+    "name": "Lamingtons",
+    "mealType": "Dessert",
+    "cuisine": "Australian",
+    "prepTime": 30,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Baking"
+  },
+  {
+    "name": "Chilli Con Carne",
+    "mealType": "Dinner",
+    "cuisine": "Mexican",
+    "prepTime": 60,
+    "difficulty": "Intermediate",
+    "budget": 20,
+    "cookingMethod": "Slow Cooker"
+  }
+]
